@@ -1,0 +1,1 @@
+box,key,kids,family,seniors,offline,open,lid

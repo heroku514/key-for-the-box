@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "KeyForTheBox",
+    "slug": "key-for-the-box",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "keyforthebox",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.keyforthebox",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Key for the Box",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F6EFE4",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

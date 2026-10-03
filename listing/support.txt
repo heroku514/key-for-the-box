@@ -1,0 +1,5 @@
+Key for the Box support
+
+Key for the Box keeps one pretend box. Tap Put the key in, Take the key out, Open the box, or Shut the box. The lid opens only after the key is in. The huge line says what the box is doing.
+
+The box stays on this phone. The app does not use an account. For help, write to peaker.map@gmail.com.

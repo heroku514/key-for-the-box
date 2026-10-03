@@ -1,0 +1,5 @@
+Key for the Box privacy
+
+Key for the Box stores the current box on this phone. The key is on the hook or in the box, and the lid is shut or open.
+
+The app does not collect personal data. It does not use an account, ads, a camera, a clock, a lock code, or a network connection. Nothing is sent off the phone.
